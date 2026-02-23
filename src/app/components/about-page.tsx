@@ -134,7 +134,7 @@ export function AboutPage() {
       <footer className="bg-[#0f172a] text-white py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <p className="text-gray-400">
-            © 2026 2Digital Agency. Tous droits réservés.
+            © 2026 2Digital Agency. Tous droits réservés. • Site conçu et piloté par nitec.fr
           </p>
         </div>
       </footer>

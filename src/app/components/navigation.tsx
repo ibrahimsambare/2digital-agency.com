@@ -39,7 +39,7 @@ export function Navigation() {
               </Link>
             ))}
             <a
-              href="#audit"
+              href="/contact"
               className="bg-blue-600 text-white px-6 py-2.5 rounded-full hover:bg-blue-700 transition-colors"
             >
               Audit Gratuit
@@ -73,7 +73,7 @@ export function Navigation() {
               </Link>
             ))}
             <a
-              href="#audit"
+              href="/contact"
               className="block mt-4 bg-blue-600 text-white px-6 py-2.5 rounded-full hover:bg-blue-700 transition-colors text-center"
             >
               Audit Gratuit

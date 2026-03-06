@@ -36,7 +36,7 @@ export function ContactPage() {
 
             {/* LinkedIn */}
             <a
-              href="https://linkedin.com/company/2digitalagency"
+              href="https://www.linkedin.com/company/2digitalagencyofficial/"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white p-8 rounded-2xl shadow-lg hover:shadow-xl transition-all hover:scale-105 group"

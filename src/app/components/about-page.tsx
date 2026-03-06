@@ -1,5 +1,5 @@
-import nitecLogo from 'figma:asset/e1c67d2a1f8906ad1441e628ee0baa89406786cc.png';
-import djibrilPhoto from 'figma:asset/53f216f2071876c97e6770711786ef2ce08be858.png';
+import nitecLogo from '../../assets/logonitec.png';
+import djibrilPhoto from '../../assets/photodjibril.png';
 
 export function AboutPage() {
   return (

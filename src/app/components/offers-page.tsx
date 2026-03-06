@@ -8,7 +8,6 @@ export function OffersPage() {
       subtitle: 'Présence structurée',
       description: 'Pour PME qui veulent poser des bases solides.',
       objective: '🎯 Objectif : crédibilité, cohérence, régularité.',
-      price: '2 500 MAD / mois',
       color: 'from-amber-700 to-amber-900',
       features: [
         'Audit digital initial (1h + synthèse)',
@@ -25,7 +24,6 @@ export function OffersPage() {
       subtitle: 'Visibilité & engagement',
       description: 'Pour PME qui veulent attirer et engager.',
       objective: '🎯 Objectif : visibilité qualifiée & premiers prospects.',
-      price: '4 000 MAD / mois',
       color: 'from-gray-400 to-gray-600',
       features: [
         'Audit stratégique complet',
@@ -43,7 +41,6 @@ export function OffersPage() {
       subtitle: 'Acquisition & conversion',
       description: 'Pour PME ambitieuses orientées résultats.',
       objective: '🎯 Objectif : génération de leads & croissance mesurable.',
-      price: '6 000 MAD / mois',
       color: 'from-yellow-400 to-yellow-600',
       popular: true,
       features: [
@@ -61,7 +58,6 @@ export function OffersPage() {
       subtitle: 'Marketing + Site',
       description: 'Pour PME qui veulent structurer leur développement complet.',
       objective: '🎯 Objectif : transformation digitale durable & scalable.',
-      price: '5 000 à 8 000 MAD / mois',
       color: 'from-blue-500 to-blue-700',
       features: [
         'Stratégie digitale complète',

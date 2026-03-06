@@ -1,5 +1,5 @@
-import nitecLogo from '../../assets/logonitec.png';
-import djibrilPhoto from '../../assets/photodjibril.png';
+import nitecLogo from '../assets/logonitec.png';
+import djibrilPhoto from '../assets/photodjibril.png';
 
 export function AboutPage() {
   return (

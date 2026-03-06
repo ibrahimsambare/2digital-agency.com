@@ -16,18 +16,18 @@ export function HomePage() {
               2Digital Agency accompagne les PME et organisateurs d'événements à structurer leur visibilité digitale et maximiser leur impact.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a
-                href="/contact"
+              <Link
+                to="/contact"
                 className="bg-blue-600 text-white px-8 py-4 rounded-full hover:bg-blue-700 transition-colors text-lg"
               >
                 Audit Gratuit 🔵
-              </a>
-              <a
-                href="/contact"
+              </Link>
+              <Link
+                to="/contact"
                 className="bg-white text-slate-900 px-8 py-4 rounded-full hover:bg-gray-100 transition-colors text-lg"
               >
                 Prendre un Rendez-vous 🔵
-              </a>
+              </Link>
             </div>
           </div>
         </div>
@@ -185,12 +185,12 @@ export function HomePage() {
           <p className="text-xl mb-8 text-blue-100">
             Commencez avec un audit gratuit de votre présence digitale
           </p>
-          <a
-            href="/contact"
+          <Link
+            to="/contact"
             className="bg-white text-blue-600 px-10 py-4 rounded-full hover:bg-gray-100 transition-colors inline-block text-lg"
           >
             Réserver un Audit 🔵
-          </a>
+          </Link>
         </div>
       </section>
 

@@ -1,4 +1,5 @@
 import { HashRouter as Router, Routes, Route } from 'react-router-dom';
+import { ScrollToTop } from "./components/scroll-to-top";
 import { Navigation } from './components/navigation';
 import { HomePage } from './components/home-page';
 import { OffersPage } from './components/offers-page';
@@ -8,6 +9,7 @@ import { ContactPage } from './components/contact-page';
 export default function App() {
   return (
     <Router>
+      <ScrollToTop />
       <div className="min-h-screen bg-slate-50">
         <Navigation />
         <Routes>

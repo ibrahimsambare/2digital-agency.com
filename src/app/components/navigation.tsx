@@ -38,12 +38,12 @@ export function Navigation() {
                 {item.label}
               </Link>
             ))}
-            <a
-              href="/contact"
+            <Link
+              to="/contact"
               className="bg-blue-600 text-white px-6 py-2.5 rounded-full hover:bg-blue-700 transition-colors"
             >
               Audit Gratuit
-            </a>
+            </Link>
           </div>
 
           {/* Mobile menu button */}
@@ -72,12 +72,12 @@ export function Navigation() {
                 {item.label}
               </Link>
             ))}
-            <a
-              href="/contact"
+            <Link
+              to="/contact"
               className="block mt-4 bg-blue-600 text-white px-6 py-2.5 rounded-full hover:bg-blue-700 transition-colors text-center"
             >
               Audit Gratuit
-            </a>
+            </Link>
           </div>
         )}
       </div>

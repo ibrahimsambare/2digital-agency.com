@@ -17,13 +17,13 @@ export function HomePage() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="contact"
+                href="/contact"
                 className="bg-blue-600 text-white px-8 py-4 rounded-full hover:bg-blue-700 transition-colors text-lg"
               >
                 Audit Gratuit 🔵
               </a>
               <a
-                href="contact"
+                href="/contact"
                 className="bg-white text-slate-900 px-8 py-4 rounded-full hover:bg-gray-100 transition-colors text-lg"
               >
                 Prendre un Rendez-vous 🔵
@@ -186,7 +186,7 @@ export function HomePage() {
             Commencez avec un audit gratuit de votre présence digitale
           </p>
           <a
-            href="#contact"
+            href="/contact"
             className="bg-white text-blue-600 px-10 py-4 rounded-full hover:bg-gray-100 transition-colors inline-block text-lg"
           >
             Réserver un Audit 🔵

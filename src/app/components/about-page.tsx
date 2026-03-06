@@ -122,7 +122,7 @@ export function AboutPage() {
             Discutons de votre projet et de comment nous pouvons vous aider à grandir
           </p>
           <a
-            href="/contact"
+            href="#contact"
             className="bg-white text-blue-600 px-10 py-4 rounded-full hover:bg-gray-100 transition-colors inline-block text-lg"
           >
             Nous Contacter

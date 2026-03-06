@@ -1,6 +1,6 @@
 import { Link } from 'react-router';
 import { Search, TrendingUp, Rocket, BarChart3, Lightbulb, Users, Target, Shield, CheckCircle2 } from 'lucide-react';
-import contentCreationImg from '../assets/exemple.png';
+import contentCreationImg from '../../assets/exemple.png';
 
 export function HomePage() {
   return (
